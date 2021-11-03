@@ -4,6 +4,7 @@
 - :briefcase:  You can checkout my linkedin profile: [Sathvik Sanagavarapu](https://www.linkedin.com/in/sathvik-sanagavarapu-77330a98/)
 - 💞️ I’m looking to collaborate on any real-world impacting meaningful projects
 - 📫 Reach me at +1(682)-438-6014
+- checkme out on [LinkedIn](https://linkedin.com/in/sathvik-sanagavarapu/)
 
 <!---
 sathviksathu/sathviksathu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
